@@ -17,7 +17,7 @@ import 'pages/animated_rotation.dart';
 import 'pages/animated_size.dart';
 import 'pages/animated_switcher.dart';
 
-
+// amsss
 void main() {
   runApp(const MyApp());
 }
